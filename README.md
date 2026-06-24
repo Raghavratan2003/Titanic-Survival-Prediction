@@ -96,8 +96,8 @@ Trained a Logistic Regression model using Scikit-Learn and compared its performa
 
 | Model                              | Accuracy |
 | ---------------------------------- | -------- |
-| Logistic Regression (Scratch)      | XX.XX%   |
-| Logistic Regression (Scikit-Learn) | XX.XX%   |
+| Logistic Regression (Scratch)      | 80.4%   |
+| Logistic Regression (Scikit-Learn) | 81.0%   |
 
 *Replace the values above with your actual results.*
 
